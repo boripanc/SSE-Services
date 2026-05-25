@@ -1,0 +1,13 @@
+
+{
+  "name": "sseservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SSE_service_backend.js",
+  "scripts": {
+    "test": "node SSE_service_backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
